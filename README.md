@@ -32,7 +32,7 @@ allprojects {
 }
         
 dependencies {
- compile 'com.hyman:flowlayout-lib:1.1.3'
+ compile 'com.github.Tang3210:flowlayout:1.1.3'
 }
 ```
 
